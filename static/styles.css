@@ -1,0 +1,13 @@
+/* GENERAL */
+html{
+    font-size: 80%;
+    box-sizing: border-box;
+    scroll-snap-type: y mandatory;
+}
+*, *::before, *:after{
+    box-sizing: inherit;
+}
+
+h1{
+    color: rgb(255, 137, 2);
+}
