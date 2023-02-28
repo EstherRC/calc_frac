@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class calculadora(AppConfig):
+class game(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "videojuego"
+    name = "game"
